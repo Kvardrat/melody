@@ -2,6 +2,6 @@
 ## Проект выполнил: Матвей Квардрат
 
 ### Тeхнологии
--html
--css
--javascript
+1) html
+2) css
+3) javascript
